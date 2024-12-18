@@ -1,0 +1,23 @@
+07/28/2023 11:22:55 AM - CT: Lincoln updates on todays tasks.
+09/18/2023 10:17:24 AM - Telegram api
+09/20/2023 02:12:19 PM - Took the dogs for a walk
+09/20/2023 02:12:31 PM - Waiting to hear of I have ACC meeting for today
+09/20/2023 02:13:20 PM - CT: For Gurnick Need to debug or add logic for the buget calc totals page for users
+09/20/2023 05:08:04 PM - Respond to Mackenzie on Resume Builder updates
+09/20/2023 05:44:34 PM - Career Fit Career Cluster Quiz
+
+USERS LOG:
+WORK:
+- 07/28/2023 11:22:55 AM - Lincoln updates on todays tasks.
+- 09/20/2023 02:13:20 PM - For Gurnick Need to debug or add logic for the buget calc totals page for users
+- 09/20/2023 05:08:04 PM - Respond to Mackenzie on Resume Builder updates
+- 09/20/2023 05:44:34 PM - Career Fit Career Cluster Quiz
+
+MY PROJECTS:
+- 09/18/2023 10:17:24 AM - Telegram api
+
+OTHER:
+- 09/20/2023 02:12:19 PM - Took the dogs for a walk
+- 09/20/2023 02:12:31 PM - Waiting to hear of I have ACC meeting for today
+
+Note: The remaining log items do not have enough information to categorize them.

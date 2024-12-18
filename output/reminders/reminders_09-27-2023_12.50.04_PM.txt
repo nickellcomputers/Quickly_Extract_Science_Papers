@@ -1,0 +1,20 @@
+REMINDERS LIST:
+UPCOMING: 
+- Dentist appointment (date and time not specified)
+- ACC meeting (date and time not specified)
+- Gurnick budget calc totals page debugging or logic addition
+- Respond to Mackenzie on Resume Builder updates
+- Career Fit Career Cluster Quiz
+- Get money from ATM to pay Steven for removing brush
+- Grocery shopping
+- Prepare for Lincoln Tech Prep Meeting
+- Go to Company Retreat GDYT meeting in Florida
+
+SOMEDAY:
+- Scan grocery receipts into computer and have AI summarize
+- Auto import Google Calendar events into my events reminder program
+- Create a Python program that will eliminate silence from sound recordings
+- Recordings Folder
+- Attend the Company Retreat GDYT meeting in Florida
+
+Note: The dates and times for the upcoming reminders are not specified in the conversation.

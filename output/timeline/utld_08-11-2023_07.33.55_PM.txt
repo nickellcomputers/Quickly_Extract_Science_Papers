@@ -1,0 +1,30 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 06/08/1979
+
+RECENT EVENTS:
+- 07/11/2023: Shared experience of dating first girlfriend in high school and the subsequent heartbreak.
+- 07/14/2023: Traveled to childhood home in Pennsylvania to visit dad.
+- 07/25/2023: Reflected on uncertainties about direction in life and reservations about settling down and getting married.
+- 07/27/2023: Dentist appointment with six cavities identified, considering changing dentists.
+- 08/08/2023: Went camping with Megan and the kids at a campground in Ashford, CT.
+- 08/10/2023: Busy day at work, picking up Megan from work, and having a haircut scheduled.
+- 08/11/2023: Experienced burnout and expressed the need for balance and self-care.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1997: Graduated from North Penn High School.
+- 2002-2005: Worked at Sikorsky Aircraft as a programmer.
+- 2005-2007: Worked at RCM Technologies as a programmer.
+- 2009: Laid off from United Natural Foods as a programmer.
+- 2010-2020: Co-founded The Conduit Center, a meditation center.
+- 2018: Started working with Career Team as a programmer and project manager.
+- 2018: Started Svara Sound, a sound meditation group.
+- 2020: Moved in with girlfriend Megan and her three sons.
+- 2022: Mother passed away.
+- 2023: Continued working as a programmer and project manager.
+- 2023: Ran a small web design business called Nickell Computers.
+- 2023: Explored personal growth, self-care, and finding a balance between independence and deeper connections.
+
+Note: The timeline provided is based on the information available in the conversation and may not include all significant life events.

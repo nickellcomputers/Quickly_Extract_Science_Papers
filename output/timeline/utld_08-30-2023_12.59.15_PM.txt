@@ -1,0 +1,27 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 7/11/2023: Busy day with work tasks and meetings.
+- 7/14/2023: Traveled to childhood home in Pennsylvania to visit Dad.
+- 7/25/2023: Engaged in a conversation with the chatbot, discussing challenges, uncertainties, and positive aspects of life.
+- 7/26/2023: Prepared for a camping trip to Hammonasset Beach in CT.
+- 7/27/2023: Had a dentist appointment and received cleaning and check-up.
+- 7/27/2023: Went for a walk with dogs and Megan after dentist appointment.
+- 8/8/2023: Went camping at a campground in Ashford, CT.
+- 8/16/2023: Completed Daily Ledger to track expenses and net take-home pay.
+- 8/17/2023: Had a dentist appointment and expressed concerns about dental health.
+- 8/21/2023: Played a sound meditation concert at Manifest Station.
+- 8/22/2023: Had meetings with ACC, Gurnick, and Lincoln Tech.
+- 8/23/2023: Made progress on personal projects and dental concerns.
+- 8/25/2023: Experienced a fun night of karaoke and drinking with friends.
+- 8/28/2023: Celebrated son Finn's birthday and bought him a graphic card.
+- 8/29/2023: Had meetings with ACC and Gurnick, and worked on personal projects.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1995: Bought first car.
+- 1997: Graduated from North Penn High School.
+- 2020: Moved in with Megan and her three boys.

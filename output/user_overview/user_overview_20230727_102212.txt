@@ -1,0 +1,8 @@
+REMINDERS LIST:
+UPCOMING:
+- Dentist appointment on {formatted_datetime} (specific date and time)
+
+SOMEDAY:
+- Call Jon in the future (no specific date mentioned)
+
+Based on the provided chat messages, the only reminder mentioned is the upcoming dentist appointment. There is a mention of calling Jon in the future, but no specific date or time is given.

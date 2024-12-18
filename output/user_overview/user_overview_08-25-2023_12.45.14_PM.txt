@@ -1,0 +1,37 @@
+USERS LOG:
+
+WORK:
+- 08/18/2023 10:32:35 AM - CT: Send notes on Gurnick create Jira tickets
+- 08/18/2023 10:32:57 AM - CT: Create Jira tickets for ACC from transcription
+- 08/18/2023 10:33:19 AM - CT: Finish creating the tango tutorial on reporting for Lincoln
+- 08/23/2023 10:15:56 AM - CT: Put in the tickets for Gurnick today
+- 08/23/2023 10:16:11 AM - CT: Meeting today with ACC at 3PM
+- 08/23/2023 10:16:22 AM - CT: Adding the Inspire badge for ACC website
+- 08/24/2023 01:58:57 PM - Unity 3D chat released today!
+- 08/25/2023 12:44:38 PM - Dentist appointment next Tuesday at 3PM
+
+MY PROJECTS:
+- 08/22/2023 02:12:58 PM - Project: Create a memory journal chat bot
+
+FAMILY:
+- 08/22/2023 02:05:48 PM - Celebrate Routine
+
+FRIENDS:
+- None
+
+HOME:
+- None
+
+SELF:
+- 08/22/2023 02:05:48 PM - Drink Green Tea
+- 08/22/2023 02:05:48 PM - Daily Journal
+- 08/22/2023 02:05:48 PM - Oil Pulling
+- 08/22/2023 02:05:48 PM - Clean Office
+- 08/22/2023 02:05:48 PM - Find Weekly Goal Tracking sheet
+- 08/22/2023 02:05:48 PM - Ride bike 2 times this week
+- 08/22/2023 02:05:48 PM - Make appointment for 3D tooth photos
+
+OTHER:
+- 08/23/2023 10:24:37 AM - AI: Potato Prompt
+- 08/23/2023 10:47:49 AM - Find a tutorial on python openAI function calling
+- 08/25/2023 12:44:38 PM - Call Jon in the future

@@ -1,0 +1,24 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 2022: Jeff's mother passed away.
+- 2023: Traveled to Pennsylvania to visit his dad.
+- 2023: Attended best friend Dave's wedding.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1995: Bought his first car.
+- 1997: Graduated from North Penn High School.
+- 2001: Graduated with a BS in Psychology from Kutztown University.
+- 2001-2003: Earned an Associates in Information Sciences & Tech from Penn State Lehigh Valley and Penn State Reading.
+- 2002-2005: Worked at Sikorsky Aircraft.
+- 2005-2007: Worked at RCM Technologies.
+- 2009: Laid off from United Natural Foods (UNFI).
+- 2010: Co-founded The Conduit Center, a meditation center.
+- 2018: Started working with Career Team as a programmer and project manager.
+- 2020: Moved in with girlfriend Megan and her three sons.
+
+Note: This User Timeline Document provides a chronological overview of significant or memorable life events mentioned in the conversation. It includes both specific years and recent events. It may not capture every detail of Jeff's life, but it highlights key moments and transitions.

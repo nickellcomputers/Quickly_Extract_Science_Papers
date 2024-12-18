@@ -1,0 +1,8 @@
+REMINDERS LIST:
+UPCOMING: 
+- 09/13/2023 11:08:45 AM Prepare for Lead squared meeting at 12:30 PM today
+- 09/13/2023 11:08:45 AM Possibly go to Overtone singing group tonight at 7 PM
+
+SOMEDAY: 
+- 09/13/2023 11:08:45 AM Ask James about OVH server
+- 09/13/2023 11:08:45 AM Add eleven labs voice to the output of the live journal but with argparse flag turn on off

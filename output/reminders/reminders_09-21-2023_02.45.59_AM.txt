@@ -1,0 +1,19 @@
+REMINDERS LIST:
+UPCOMING: 
+- 09/21/2023 02:42:09 AM Dentist appointment
+- 09/21/2023 02:42:09 AM ACC meeting
+- 09/21/2023 02:42:09 AM Work meeting tomorrow
+
+SOMEDAY: 
+- 09/21/2023 02:42:09 AM Seek guidance from a couples therapist
+- 09/21/2023 02:42:09 AM Discuss issues with life coach
+- 09/21/2023 02:42:09 AM Set dedicated time for communication follow-ups
+- 09/21/2023 02:42:09 AM Make a dental appointment for root canal procedure
+- 09/21/2023 02:42:09 AM Consider visiting dad in Pennsylvania
+- 09/21/2023 02:42:09 AM Update project management sheet and provide site tool links to Susan for Lincoln Tech
+- 09/21/2023 02:42:09 AM Gather JIRA tasks for Gurnick
+- 09/21/2023 02:42:09 AM Demo career cluster section for Burke
+- 09/21/2023 02:42:09 AM Add chapters to the video for Lead Squared meeting
+- 09/21/2023 02:42:09 AM Discuss mobile development requirements for Lead Squared meeting
+- 09/21/2023 02:42:09 AM Test admin site's functionality for dynamically updating the virtual tours page for Lead Squared meeting
+- 09/21/2023 02:42:09 AM Suggest two-column layout for business hours and two-line address format for mobile site for Lead Squared meeting

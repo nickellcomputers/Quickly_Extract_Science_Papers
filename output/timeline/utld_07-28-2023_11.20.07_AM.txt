@@ -1,0 +1,35 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 2022: Jeff's mom passed away.
+- 2023: Traveled to PA to visit Dad.
+- 2023: Attended best friend Dave's wedding.
+- 2023: Went on a camping trip to Hammonasset Beach in CT with Megan and her three sons.
+- 2023: Had a dentist appointment and received a cleaning and check-up.
+- 2023: Experienced dental issues with cavities that needed to be redone.
+- 2023: Started limiting sugary drinks and exploring healthier alternatives.
+- 2023: Connected with colleagues on LinkedIn and received recognition for posts.
+- 2023: Bumped into an old friend, Jon Roe, who expressed interest in attending a sound meditation session.
+- 2023: Reflected on recent interactions with friends and the desire to reconnect with old friends.
+- 2023: Went for a walk with dogs and Megan after a dentist appointment.
+- 2023: Experienced financial concerns due to dental expenses.
+- 2023: Prepared for a trip to Hammonasset Beach and made a packing list.
+- 2023: Had career team meetings.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1995: Bought first car.
+- 1997: Graduated from North Penn High School.
+- 2002-2005: Worked at Sikorsky Aircraft as a programmer.
+- 2005-2007: Worked at RCM Technologies as a programmer.
+- 2009: Laid off from United Natural Foods as a programmer.
+- 2010-2020: Co-founded The Conduit Center, a meditation center.
+- 2018: Started working with Career Team as a programmer and project manager.
+- 2018: Started a sound meditation group called Svara Sound.
+- 2020: Moved in with Megan and her three sons.
+- Present: Runs a small web design business called Nickell Computers.
+
+This timeline provides an overview of Jeff's life events, including recent and significant moments. It highlights his personal and professional journey, relationships, and experiences related to sound healing and meditation.

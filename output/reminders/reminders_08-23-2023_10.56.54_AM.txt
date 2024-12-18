@@ -1,0 +1,10 @@
+REMINDERS LIST:
+UPCOMING: 
+- 08/23/2023 10:55:20 AM: Make a dental appointment
+- 08/23/2023 10:55:20 AM: Put in the tickets for Gurnick today
+- 08/23/2023 10:55:20 AM: Meeting today with ACC at 3PM
+- 08/23/2023 10:55:20 AM: Adding the Inspire badge for ACC website
+
+SOMEDAY:
+- 08/23/2023 10:55:20 AM: Find a tutorial on Python openAI function calling
+- 08/23/2023 10:55:20 AM: Try out Office 365 Python inside MS Excel

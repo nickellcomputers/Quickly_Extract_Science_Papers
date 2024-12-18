@@ -1,0 +1,48 @@
+EVENTS LOG:
+08/08/2023 10:46:21 AM: Jeff went camping with Megan and the kids at a campground in Ashford, CT. They enjoyed activities like boating, swimming, biking, and driving a golf cart.
+
+08/08/2023 08:27:10 PM: Jeff had a busy day at work, working on Lincoln tasks, gathering project requirements, and summarizing a work task for a client named Gurnick. He also enjoyed a homemade dinner cooked by Megan, went for a walk, had some alcoholic beverages, updated expenses, and went for a mountain bike ride in the afternoon.
+
+08/10/2023 12:27:13 PM: Jeff finished tasks for Lincoln, picked up Megan from work, and had a haircut scheduled for later in the day. Megan received an IV treatment for iron deficiency.
+
+08/11/2023 07:33:14 PM: Jeff took care of the kids, went grocery shopping, and had an internal meeting about reporting. He discussed the possibility of upgrading PCs to Windows 11 and still had photos to scan. Megan felt sick and needed assistance. Jeff expressed feeling burnt out and mentioned the need for balance and self-care.
+
+08/16/2023 10:22:48 PM: Jeff successfully completed his Daily Ledger to track expenses and net take-home pay. He enjoyed mountain biking and had successful projects at work. He also had a big demo coming up and met online with Gurnick and ACC clients for Career Team.
+
+08/17/2023 05:05:22 PM: Jeff had a busy day, taking care of the kids, grocery shopping, and trying to work. He had an internal meeting about reporting and discussed the possibility of upgrading PCs to Windows 11. He still had photos to scan and felt overwhelmed with his busy schedule. Megan felt sick and needed assistance. Jeff expressed feeling burnt out and mentioned the need for balance and self-care.
+
+08/18/2023 10:41:30 AM: Jeff woke up groggy after drinking a long island iced tea following a dentist appointment. He was referred to a root canal specialist and expressed fear about the procedure. Megan received an IV treatment for iron deficiency. Jeff had work tasks for Lincoln, Gurnick, and ACC. He also mentioned his interest in AI tech and nostalgia for the Prodigy online service.
+
+08/18/2023 05:01:08 PM: Jeff was all packed up for a sound concert at Manifest Station. He messaged his friend Sarah about his dental experience and mentioned her interest in Ayurvedic practices.
+
+08/21/2023 07:24:58 PM: Jeff played a sound meditation concert with Kim at the Manifest Station. He celebrated his son Finn's birthday and went out to buy him a graphic card. He expressed financial concerns and a conversation with Megan about potentially quitting his job to become a housewife.
+
+08/22/2023 09:42:06 AM: Jeff had a meeting with Lincoln for Career Team and discussed progress and updates. He mentioned Megan feeling tired after receiving an IV of iron and his own excitement for personal development progress. He expressed interest in using AI technology for intelligent searches and mentioned a potential sound healing event at Unity Church. He also mentioned the need to check in on his dad after his recent eye surgery.
+
+08/22/2023 02:11:57 PM: Jeff discussed his plans for the day, including finishing tasks for Lincoln, picking up Megan from work, and having a haircut scheduled. He mentioned Megan feeling tired after receiving an IV of iron and his own excitement for personal development progress. He expressed interest in using AI technology for intelligent searches and mentioned a potential sound healing event at Unity Church. He also mentioned the need to check in on his dad after his recent eye surgery.
+
+08/23/2023 10:47:08 AM: Jeff discussed his plans for the day, including finishing tasks for Lincoln, picking up Megan from work, and having a haircut scheduled. He mentioned Megan feeling tired after receiving an IV of iron and his own excitement for personal development progress. He expressed interest in using AI technology for intelligent searches and mentioned a potential sound healing event at Unity Church. He also mentioned the need to check in on his dad after his recent eye surgery.
+
+08/23/2023 10:54:28 AM: Jeff provided an update on his current situation, mentioning a meeting with ACC to discuss updates for the Resume Builder. He also shared that he had consumed alcohol the previous night as a way to cope with stress. He completed a project involving scanning photos and expressed the need to set goals to limit his drinking and find healthier activities. He mentioned buying groceries and coconut oil, trying oil pulling while playing the piano, and having a minor disagreement with Megan. He also mentioned shopping at Walmart and shared a humorous encounter with a stranger. He had a stand-up meeting for his career team and was feeling okay about it. He also mentioned the upcoming dental appointment and his feelings about it.
+
+08/25/2023 12:43:53 PM: Jeff expressed his happiness and satisfaction in successfully completing his Daily Ledger to track expenses and net take-home pay. He mentioned that it has helped him curb his spending and avoid unnecessary purchases. He also shared his enjoyment of mountain biking and mentioned having successful projects at work. He was looking forward to an upcoming sound concert and mentioned meeting online with Gurnick and ACC clients for Career Team.
+
+08/27/2023 10:24:17 AM: Jeff went to an overtone singing group and felt joy and connection with the other members. He proposed to Megan but expressed mixed feelings about the engagement. He felt unsure about marriage and had concerns about shared finances.
+
+08/29/2023 10:56:31 AM: Jeff had meetings with ACC, Gurnick, and Lincoln Tech. He planned to add a text description to the College Resources goal for ACC, update the project management sheet and provide site tool links to Susan for Lincoln Tech, and update the project management sheet and gather JIRA tasks for Gurnick. He also mentioned dental concerns and an upcoming root canal procedure, as well as concerns about settling down and finances.
+
+08/30/2023 01:08:49 PM: Jeff discussed his plans for the day, including finishing tasks for Lincoln, picking up Megan from work, and having a haircut scheduled. He mentioned dental concerns and an upcoming root canal procedure, as well as concerns about settling down and finances. He also mentioned upcoming projects involving Jira tickets and a tango tutorial.
+
+09/03/2023 02:11:14 PM: Jeff shared his positive experience of playing a sound meditation concert with Kim at the Manifest Station. He expressed his love for sound healing and mentioned celebrating his son's birthday. He also mentioned his financial concerns and a conversation with Megan about potentially quitting his job to become a housewife.
+
+09/05/2023 09:24:39 AM: Jeff expressed feeling unorganized and overwhelmed due to recent life events, including proposing to Megan and visiting his father. He mentioned neglecting his daily ledger, regular exercise, and communication with friends. He also expressed concern about not having enough tasks at work and needing to focus more on his job with Career Team.
+
+09/13/2023 11:08:19 AM: Jeff shared his plans for the day, including finishing tasks for Lincoln, picking up Megan from work, and having a haircut scheduled. He mentioned dental concerns and an upcoming root canal procedure, as well as concerns about settling down and finances. He also mentioned his interest in creating an img2pdfemailer program.
+
+09/15/2023 10:35:31 AM: Jeff expressed feeling unorganized and overwhelmed due to recent life events, including proposing to Megan and visiting his father. He mentioned neglecting his daily ledger, regular exercise, and communication with friends. He also expressed concern about not having enough tasks at work and needing to focus more on his job with Career Team.
+
+09/21/2023 02:41:16 AM: Jeff shared his positive experience at his overtone singing group, describing the joy and connection he felt with the other members. He also mentioned that he proposed to his girlfriend, Megan, but expressed mixed feelings about the engagement. He feels unsure about marriage, fearing it might make him lose his sense of self, and is also concerned about shared finances.
+
+09/21/2023 01:39:00 PM: Jeff woke up late and missed a meeting but still felt positive about the day after watching self-care videos from his life coach. He shared his insights about the importance of personal time and space, especially in the context of his relationship with Megan and their kids. Jeff expressed that he enjoys their company but also needs alone time, which he's been able to have while they're away. He mentioned that he finds it difficult to communicate his need for personal space to Megan due to fear of her reaction.
+
+09/27/2023 12:49:16 PM: Jeff shared his positive experience from a recent meeting with Lincoln Tech in New Jersey, where he felt he contributed significantly with his technical knowledge. He mentioned returning to his regular work routine and expressed enthusiasm about his work needing him more than usual. Jeff also shared his innovative ideas about integrating AI chatbots into his work. He has been recording daily journal entries via voice and acknowledged the need to set aside time to reach out to certain people he's been meaning to connect with.

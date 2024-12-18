@@ -1,0 +1,30 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 2022: Loss of Jeff's mother
+- 2023:
+  - 7/14: Traveled to childhood home in Pennsylvania to visit Dad
+  - 7/27: Dentist appointment with concerns about cavities
+  - 7/27: Walk with dogs and Megan after dentist appointment
+  - 7/27: Preparing for a trip to Hammonasset Beach in CT
+  - 7/27: Recognition on LinkedIn for posts and connecting with colleagues
+  - 7/27: Bumped into old friend Jon Roe who expressed interest in attending a sound meditation session
+  - 7/27: Reflecting on recent interactions with friends and desire to explore missed group gathering
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born
+- 1995: Bought first car
+- 1997: Graduated from North Penn High School
+- 2002-2005: Worked at Sikorsky Aircraft
+- 2005-2007: Worked at RCM Technologies
+- 2009: Laid off from United Natural Foods
+- 2010-2020: Co-founded The Conduit Center, a meditation center
+- 2018: Started working with Career Team as a programmer and project manager
+- Present: Runs a small web design business called Nickell Computers
+- Present: Involved in sound healing and meditation, co-founded Svara Sound
+- Present: Lives with girlfriend Megan and her three sons
+
+Note: The timeline provided is based on the information shared in the conversation and may not include all significant events in Jeff's life.

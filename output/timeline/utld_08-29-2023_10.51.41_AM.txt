@@ -1,0 +1,23 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 2023:
+  - 7/14: Traveled to childhood home in Pennsylvania to visit Dad.
+  - 7/25: Busy day with work tasks and meetings, preparing for a trip to childhood home.
+  - 7/27: Dentist appointment, recognized on LinkedIn, bumped into an old friend.
+  - 7/28: Walked dogs with Megan after dentist appointment, feeling concerned about finances.
+  - 8/8: Went camping at a campground in Ashford, CT with Megan and the kids.
+  - 8/16: Played a sound meditation concert at Manifest Station, celebrated son Finn's birthday.
+  - 8/22: Met with ACC for Career Team, started a weekly dietary shopping list and grocery log.
+  - 8/23: Made progress on Python program, dental appointment concerns, feeling down.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1995: Bought first car.
+- 1997: Graduated from North Penn High School.
+- 2020: Moved in with Megan and her three boys.
+
+This timeline provides an overview of Jeff's recent events and significant milestones throughout his life. It highlights his recent activities, such as traveling, dental appointments, camping trips, and career-related meetings. The timeline also includes notable events like Jeff's birth, buying his first car, graduating from high school, and moving in with his girlfriend and her children.

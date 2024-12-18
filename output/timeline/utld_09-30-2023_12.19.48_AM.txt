@@ -1,0 +1,40 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: Unknown
+
+RECENT EVENTS:
+- 07/28/2023: Jeff had a dentist appointment and was informed that his previous cavities needed to be redone.
+- 08/08/2023: Jeff went camping with Megan and the kids at a campground in Ashford, CT.
+- 08/08/2023: Jeff had a busy day at work, cooked dinner, went for a walk, updated expenses, and went for a mountain bike ride.
+- 08/10/2023: Jeff finished tasks for Lincoln, picked up Megan from work, and had a haircut scheduled.
+- 08/11/2023: Jeff took care of the kids, went grocery shopping, and had an internal meeting about reporting.
+- 08/16/2023: Jeff successfully completed his Daily Ledger to track expenses and net take-home pay.
+- 08/17/2023: Jeff had a dental appointment and was referred to a root canal specialist.
+- 08/18/2023: Jeff woke up groggy after drinking a long island iced tea following his dental appointment.
+- 08/18/2023: Jeff was all packed up for a sound concert at Manifest Station.
+- 08/21/2023: Jeff played a sound meditation concert with Kim at the Manifest Station.
+- 08/22/2023: Jeff had a productive day, working on tasks for Lincoln, ACC, and Gurnick.
+- 08/23/2023: Jeff worked on his contact management program and planned to start a weekly dietary shopping list.
+- 08/23/2023: Jeff had a dental appointment and was feeling anxious about it.
+- 08/25/2023: Jeff continued working on his goals, including drinking green tea, journaling, and attending a sound concert.
+- 08/28/2023: Jeff completed a project at work and enjoyed mountain biking.
+- 08/29/2023: Jeff had meetings with ACC, Gurnick, and Lincoln Tech.
+- 08/30/2023: Jeff felt unorganized and overwhelmed, but watched self-care videos for motivation.
+- 09/03/2023: Jeff created an img2pdfemailer program and planned to schedule a dental appointment.
+- 09/05/2023: Jeff proposed to Megan and visited his father.
+- 09/13/2023: Jeff had a Lead Squared meeting and discussed plans for the virtual tours page.
+- 09/15/2023: Jeff felt unorganized and overwhelmed, struggling with work-life balance.
+- 09/21/2023: Jeff played a sound meditation concert at Unity Church and had mixed feelings about his engagement.
+- 09/27/2023: Jeff had a positive meeting with Lincoln Tech and shared his innovative ideas about AI chatbots.
+- 09/27/2023: Jeff felt anxious about balancing work and personal life, and regretted drinking the previous night.
+
+LIFE EVENTS TIMELINE:
+- Unknown: Jeff was born.
+- Unknown: Jeff was shy in elementary school.
+- Unknown: Jeff bought his first car.
+- Unknown: Jeff graduated from North Penn High School.
+- Unknown: Jeff moved in with Megan and her three boys.
+- Unknown: Jeff started his sound healing business, Svara Sound.
+- Unknown: Jeff proposed to Megan.
+- Unknown: Jeff visited his father in Pennsylvania.

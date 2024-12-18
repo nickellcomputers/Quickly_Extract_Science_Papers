@@ -33,7 +33,7 @@ def open_yaml(filepath):
 ###     API functions
 
 
-def chatbot(conversation, model="gpt-4-0613", temperature=0):
+def chatbot(conversation, model="gpt-3.5-turbo-16k", temperature=0):
     max_retry = 7
     retry = 0
     while True:
@@ -43,7 +43,7 @@ def chatbot(conversation, model="gpt-4-0613", temperature=0):
             
             response = openai.ChatCompletion.create(model=model, messages=conversation, temperature=temperature)
             text = response['choices'][0]['message']['content']
-
+            save_file('chat_bot.txt', text)
             spinner.stop()
             
             return text, response['usage']['total_tokens']

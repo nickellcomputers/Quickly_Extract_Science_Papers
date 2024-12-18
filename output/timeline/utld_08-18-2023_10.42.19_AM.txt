@@ -1,0 +1,21 @@
+User Timeline Document (UTLD):
+
+User: Jeff
+Birthdate: 6/8/1979
+
+RECENT EVENTS:
+- 2020: Moved in with Megan and her three sons.
+
+LIFE EVENTS TIMELINE:
+- 1979: Jeff was born.
+- 1997: Graduated from North Penn High School.
+- 2002-2005: Worked at Sikorsky Aircraft.
+- 2005-2007: Worked at RCM Technologies.
+- 2009: Laid off from United Natural Foods (UNFI).
+- 2010: Co-founded The Conduit Center, a meditation center.
+- 2018: Started working with Career Team as a programmer and project manager.
+- 2020: Started running a sound meditation group called Svara Sound.
+- 2022: Mother passed away.
+- 2023 (RECENT): Traveled to Pennsylvania to visit Dad.
+
+Note: The timeline provided is based on the information shared in the conversation and may not include all significant events in Jeff's life.
